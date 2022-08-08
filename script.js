@@ -36,7 +36,7 @@ const apertaBotao = () => {
     //Adicionando uma div com js para armazenar a pergunta
     const pergunta = "<div>" + elementPergunta.value + "</div>"
     
-    //Gerar numero aleatorio para escolha das respostas
+    //Gerar numero aleatorio para escolah das respostas
     const tamRespostas = resposta.length
     const numAleatorio = Math.floor(Math.random() * tamRespostas)
     

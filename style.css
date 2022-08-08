@@ -10,9 +10,6 @@ body {
 
     text-align: center;
 
-    display: flex;
-    justify-content: center;
-
     font-family:sans-serif;
 }
 
@@ -22,6 +19,7 @@ body {
     width: 80%;
     max-width: 400px;
     
+    margin-inline: auto;
 }
 
 h1 {
